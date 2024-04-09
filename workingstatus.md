@@ -1,20 +1,9 @@
 # Working Status
 
-## Compiling
-- [x] Can Compile Game
-- [x] Can Compile Tools
-- [x] Can Compile Game Scripts
-- [x] Can Compile Shaders
-
 ## Main
-- [x] Game
-- [x] Tools
-  - [x] Rage Script Editor
-  - [x] Rag UI and Interface
-  - [x] Map Viewer
-  - [x] ShortcutMenu 
-  - [x] Other Tools
-    - Note that Some Perforce login required tools will not work, they need some modifications and Perforce.
-      - Perforce Download Links:
-        1. Helix Core: https://www.perforce.com/downloads/helix-core-free-small-teams
-        2. Helix Visual Client: https://www.perforce.com/downloads/helix-visual-client-p4v
+- [ ] Game Playable in All Phones
+- Phones that MAYBE can run it:
+  - [ ] Samsung A34 (Maybe one day)
+  - [x] Poco X5 Pro (Incredible 15 FPS)
+  - [x] Iphone 13 Pro (25 FPS?!)
+  - [x] Iphone 14 (25 FPS too :(... )
